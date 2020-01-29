@@ -38,4 +38,3 @@ axios.get(url);
 //   console.log(error);
 // });
 
-//end
